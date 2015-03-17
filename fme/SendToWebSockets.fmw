@@ -8,49 +8,49 @@
 #    "/Applications/FME 2015/Engine/fme" /Users/lkerssens/Documents/MyFiles/WorldTour_2015/JMS_Websockets_Spatial/SendToWebSockets_TESTINGVERSION.fmw
 #    
 #    
-#! SOURCE_ROUTING_FILE=""
-#! LOG_FILE=""
-#! DESTINATION_ROUTING_FILE=""
-#! HISTORY=""
-#! FME_DOCUMENT_GUID="91d00d08-c843-11e4-9032-60030894943e"
+#! LOG_MAX_PRECISION="Yes"
+#! WORKSPACE_VERSION="1"
+#! DESCRIPTION="&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;"
+#! FME_BUILD_NUM="15253"
 #! FME_GEOMETRY_HANDLING="Enhanced"
-#! DOC_EXTENTS="2196.02 933.509"
-#! MULTI_WRITER_DATASET_ORDER="BY_ID"
-#! REQUIREMENTS_KEYWORD="none"
-#! USAGE="&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;"
 #! ATTR_TYPE_ENCODING="SDF"
+#! SHOW_ANNOTATIONS="true"
+#! SOURCE_ROUTING_FILE=""
+#! LOG_MAX_RECORDED_FEATURES="200"
 #! BEGIN_TCL=""
+#! PASSWORD=""
+#! TITLE="none2none"
 #! LEGAL_TERMS_CONDITIONS="&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;"
 #! FME_STROKE_MAX_DEVIATION="0"
-#! REDIRECT_TERMINATORS="NONE"
-#! REQUIREMENTS="&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;"
-#! FME_REPROJECTION_ENGINE="FME"
-#! PASSWORD=""
-#! MAX_LOG_FEATURES="200"
 #! END_PYTHON=""
-#! LOG_MAX_PRECISION="Yes"
 #! CATEGORY=""
-#! SHOW_INFO_NODES="true"
-#! WORKSPACE_VERSION="1"
-#! DESTINATION="NONE"
-#! IGNORE_READER_FAILURE="No"
-#! BEGIN_PYTHON=""
+#! DOC_TOP_LEFT="393.004 -770.502"
+#! REQUIREMENTS="&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;"
 #! ZOOM_SCALE="100"
-#! SHOW_ANNOTATIONS="true"
-#! DESCRIPTION="&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;"
-#! SOURCE="NONE"
-#! LAST_SAVE_DATE="2015-03-11T17:03:00"
-#! LOG_MAX_RECORDED_FEATURES="200"
-#! TITLE="none2none"
-#! FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Auto"
-#! END_TCL=""
-#! FME_BUILD_NUM="15253"
-#! FME_DOCUMENT_PRIORGUID="62452746-a970-11e3-97c0-ad0953a378d2"
-#! FME_SERVER_SERVICES=""
-#! DOC_TOP_LEFT="393.004 -1092.51"
-#! WARN_INVALID_XFORM_PARAM="Yes"
+#! DOC_EXTENTS="2358.03 611.5"
+#! MULTI_WRITER_DATASET_ORDER="BY_ID"
 #! LAST_SAVE_BUILD="FME(R) 2015.0 (20150217 - Build 15253 - macosx)"
-#! VIEW_POSITION="0 -51.0005"
+#! FME_DOCUMENT_GUID="c00f529a-c8cb-11e4-8d03-60030894943e"
+#! IGNORE_READER_FAILURE="No"
+#! FME_REPROJECTION_ENGINE="FME"
+#! HISTORY=""
+#! LAST_SAVE_DATE="2015-03-12T12:09:34"
+#! SHOW_INFO_NODES="true"
+#! DESTINATION_ROUTING_FILE=""
+#! VIEW_POSITION="-63.0006 3.00003"
+#! BEGIN_PYTHON=""
+#! SOURCE="NONE"
+#! REQUIREMENTS_KEYWORD="none"
+#! END_TCL=""
+#! USAGE="&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&#10;    &lt;br/&gt;&#10;&lt;/p&gt;&#10;"
+#! LOG_FILE=""
+#! FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Auto"
+#! REDIRECT_TERMINATORS="NONE"
+#! FME_DOCUMENT_PRIORGUID="62452746-a970-11e3-97c0-ad0953a378d2,91d00d08-c843-11e4-9032-60030894943e,95a64e70-c84c-11e4-8d03-60030894943e"
+#! WARN_INVALID_XFORM_PARAM="Yes"
+#! FME_SERVER_SERVICES=""
+#! MAX_LOG_FEATURES="200"
+#! DESTINATION="NONE"
 #! >
 #! <DATASETS>
 #! </DATASETS>
@@ -124,51 +124,30 @@
 #! BOUNDING_RECT="393.004 -159.002 0 0"
 #! ORDER="5e+14"
 #! PARMS_EDITED="true"
-#! ENABLED="false"
+#! ENABLED="true"
 #! LAST_PARM_EDIT="15253"
 #! >
 #! <OUTPUT_FEAT NAME="OUTPUT"/>
 #! <XFORM_ATTR ATTR_NAME="jms_message_type" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="jms_destination" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="jms_content" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="JMS_URL" PARM_VALUE="tcp://54.81.254.73:61616"/>
-#! <XFORM_PARM PARM_NAME="JMS_PASSWORD" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="JMS_TYPE" PARM_VALUE="ACTIVEMQ"/>
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="JMS_CONNECTION_FACTORY" PARM_VALUE="ConnectionFactory"/>
 #! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="JMSReceiver_2"/>
-#! <XFORM_PARM PARM_NAME="JMS_DESTINATION" PARM_VALUE="dynamicQueues&lt;solidus&gt;Measurements"/>
-#! <XFORM_PARM PARM_NAME="JMS_USERNAME" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="JMS_PROPERTIES" PARM_VALUE=""/>
-#! </TRANSFORMER>
-#! <TRANSFORMER
-#! IDENTIFIER="7"
-#! TYPE="Player"
-#! VERSION="1"
-#! POSITION="456.006 -706.507"
-#! BOUNDING_RECT="456.006 -706.507 -1 -1"
-#! ORDER="5e+14"
-#! PARMS_EDITED="true"
-#! ENABLED="true"
-#! LAST_PARM_EDIT="15253"
-#! >
-#! <OUTPUT_FEAT NAME="PLAYED_BACK"/>
-#! <FEAT_COLLAPSED COLLAPSED="0"/>
-#! <XFORM_PARM PARM_NAME="RECFILE" PARM_VALUE="$(FME_MF_DIR)testing.ffs"/>
-#! <XFORM_PARM PARM_NAME="FEAT_TYPE_ATTR" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Player"/>
 #! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="MODE" PARM_VALUE="PLAYBACK"/>
-#! <XFORM_PARM PARM_NAME="PASS" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="JMS_USERNAME" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="JMS_TYPE" PARM_VALUE="ACTIVEMQ"/>
+#! <XFORM_PARM PARM_NAME="JMS_URL" PARM_VALUE="tcp://54.81.254.73:61616"/>
+#! <XFORM_PARM PARM_NAME="JMS_PASSWORD" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="JMS_DESTINATION" PARM_VALUE="dynamicQueues&lt;solidus&gt;MeasurementsG1,dynamicQueues&lt;solidus&gt;MeasurementsG2,dynamicQueues&lt;solidus&gt;MeasurementsG3,dynamicQueues&lt;solidus&gt;MeasurementsG4"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="13"
 #! TYPE="WebSocketSender"
 #! VERSION="1"
-#! POSITION="2589.03 -1092.51"
-#! BOUNDING_RECT="2589.03 -1092.51 -1 -1"
+#! POSITION="2751.03 -179.907"
+#! BOUNDING_RECT="2751.03 -179.907 -1 -1"
 #! ORDER="5e+14"
 #! PARMS_EDITED="true"
 #! ENABLED="true"
@@ -179,21 +158,26 @@
 #! <XFORM_ATTR ATTR_NAME="jms_message_type" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="jms_destination" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="jms_content" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="LoaderID" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="UploadedTime" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="CapturedTime" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Latitude" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Longitude" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_result" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="HOST" PARM_VALUE="wss://bluesky-safe-software.fmecloud.com:7078/websocket"/>
-#! <XFORM_PARM PARM_NAME="VERIFY_SSL_CERTIFICATES" PARM_VALUE="Yes"/>
-#! <XFORM_PARM PARM_NAME="PREAMBLE" PARM_VALUE="&lt;opencurly&gt;&lt;lf&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;ws_op:&lt;space&gt;&lt;quote&gt;open&lt;quote&gt;&lt;comma&gt;&lt;lf&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;ws_stream_id:&lt;space&gt;&lt;quote&gt;TruckLocation&lt;quote&gt;&lt;lf&gt;&lt;closecurly&gt;"/>
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="WebSocketSender_2"/>
-#! <XFORM_PARM PARM_NAME="DATA" PARM_VALUE="&lt;at&gt;Value&lt;openparen&gt;_result&lt;closeparen&gt;"/>
-#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="VERIFY_SSL_CERTIFICATES" PARM_VALUE="Yes"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="WebSocketSender_1"/>
+#! <XFORM_PARM PARM_NAME="HOST" PARM_VALUE="wss://fmewt15-safe-software.fmecloud.com:7078/websocket"/>
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="PREAMBLE" PARM_VALUE="&lt;opencurly&gt;&lt;lf&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;ws_op:&lt;space&gt;&lt;quote&gt;open&lt;quote&gt;&lt;comma&gt;&lt;lf&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;ws_stream_id:&lt;space&gt;&lt;quote&gt;group1&lt;quote&gt;&lt;lf&gt;&lt;closecurly&gt;"/>
+#! <XFORM_PARM PARM_NAME="DATA" PARM_VALUE="&lt;at&gt;Value&lt;openparen&gt;_result&lt;closeparen&gt;"/>
 #! </TRANSFORMER>
 #! <TRANSFORMER
 #! IDENTIFIER="12"
 #! TYPE="JSONTemplater"
 #! VERSION="0"
-#! POSITION="2380.02 -737.132"
-#! BOUNDING_RECT="2380.02 -737.132 -1 -1"
+#! POSITION="1485.02 -179.907"
+#! BOUNDING_RECT="1485.02 -179.907 -1 -1"
 #! ORDER="5e+14"
 #! PARMS_EDITED="true"
 #! ENABLED="true"
@@ -204,43 +188,317 @@
 #! <XFORM_ATTR ATTR_NAME="jms_message_type" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="jms_destination" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="jms_content" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="LoaderID" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="UploadedTime" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="CapturedTime" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Latitude" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Longitude" IS_USER_CREATED="false" FEAT_INDEX="0" />
 #! <XFORM_ATTR ATTR_NAME="_result" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#! <XFORM_PARM PARM_NAME="CONSECUTIVE_GROUPS" PARM_VALUE="&lt;Unused&gt;"/>
-#! <XFORM_PARM PARM_NAME="GROUP_BY" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="ROOT_QUERY_EXPR" PARM_VALUE="&lt;opencurly&gt;&lt;lf&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;apos&gt;ws_op&lt;apos&gt;:&lt;space&gt;&lt;quote&gt;send&lt;quote&gt;&lt;comma&gt;&lt;lf&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;apos&gt;ws_msg&lt;apos&gt;:&lt;space&gt;fme:get-attribute&lt;openparen&gt;&lt;quote&gt;jms_content&lt;quote&gt;&lt;closeparen&gt;&lt;lf&gt;&lt;closecurly&gt;"/>
-#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="JSONTemplater"/>
-#! <XFORM_PARM PARM_NAME="SUB_TEMPLATE_PARAMS" PARM_VALUE=""/>
-#! <XFORM_PARM PARM_NAME="VISIBLE_QUERY_VALIDATE" PARM_VALUE="Yes"/>
-#! <XFORM_PARM PARM_NAME="RESULT_ATTRIBUTE" PARM_VALUE="_result"/>
-#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
 #! <XFORM_PARM PARM_NAME="ROOT_QUERY_FILE" PARM_VALUE="&lt;Unused&gt;"/>
 #! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="SUB_TEMPLATE_PARAMS" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="JSONTemplater"/>
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="ROOT_QUERY_EXPR" PARM_VALUE="&lt;opencurly&gt;&lt;lf&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;apos&gt;ws_op&lt;apos&gt;:&lt;space&gt;&lt;quote&gt;send&lt;quote&gt;&lt;comma&gt;&lt;lf&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;apos&gt;ws_msg&lt;apos&gt;:&lt;space&gt;fme:get-attribute&lt;openparen&gt;&lt;quote&gt;jms_content&lt;quote&gt;&lt;closeparen&gt;&lt;lf&gt;&lt;closecurly&gt;"/>
+#! <XFORM_PARM PARM_NAME="VISIBLE_QUERY_VALIDATE" PARM_VALUE="Yes"/>
+#! <XFORM_PARM PARM_NAME="CONSECUTIVE_GROUPS" PARM_VALUE="&lt;Unused&gt;"/>
+#! <XFORM_PARM PARM_NAME="GROUP_BY" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="RESULT_ATTRIBUTE" PARM_VALUE="_result"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#! IDENTIFIER="14"
+#! TYPE="JSONFlattener"
+#! VERSION="3"
+#! POSITION="934.009 -179.907"
+#! BOUNDING_RECT="934.009 -179.907 -1 -1"
+#! ORDER="5e+14"
+#! PARMS_EDITED="true"
+#! ENABLED="true"
+#! LAST_PARM_EDIT="15253"
+#! >
+#! <OUTPUT_FEAT NAME="OUTPUT"/>
+#! <FEAT_COLLAPSED COLLAPSED="0"/>
+#! <XFORM_ATTR ATTR_NAME="jms_message_type" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="jms_destination" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="jms_content" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="LoaderID" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="UploadedTime" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="CapturedTime" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Latitude" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Longitude" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <OUTPUT_FEAT NAME="&lt;REJECTED&gt;"/>
+#! <FEAT_COLLAPSED COLLAPSED="1"/>
+#! <XFORM_ATTR ATTR_NAME="jms_message_type" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="jms_destination" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="jms_content" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="LoaderID" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="UploadedTime" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="CapturedTime" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="Latitude" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="Longitude" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="JSONFlattener"/>
+#! <XFORM_PARM PARM_NAME="RECURSIVE" PARM_VALUE="Yes"/>
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="NEW_ATTRIBUTES" PARM_VALUE="LoaderID UploadedTime CapturedTime Latitude Longitude"/>
+#! <XFORM_PARM PARM_NAME="PREFIX_STRING" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="JSON_ATTR" PARM_VALUE="jms_content"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#! IDENTIFIER="26"
+#! TYPE="WebSocketSender"
+#! VERSION="1"
+#! POSITION="2751.03 -387.004"
+#! BOUNDING_RECT="2751.03 -387.004 -1 -1"
+#! ORDER="5e+14"
+#! PARMS_EDITED="true"
+#! ENABLED="true"
+#! LAST_PARM_EDIT="15253"
+#! >
+#! <OUTPUT_FEAT NAME="OUTPUT"/>
+#! <FEAT_COLLAPSED COLLAPSED="0"/>
+#! <XFORM_ATTR ATTR_NAME="jms_message_type" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="jms_destination" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="jms_content" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="LoaderID" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="UploadedTime" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="CapturedTime" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Latitude" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Longitude" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_result" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="VERIFY_SSL_CERTIFICATES" PARM_VALUE="Yes"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="WebSocketSender_2"/>
+#! <XFORM_PARM PARM_NAME="HOST" PARM_VALUE="wss://fmewt15-safe-software.fmecloud.com:7078/websocket"/>
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="PREAMBLE" PARM_VALUE="&lt;opencurly&gt;&lt;lf&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;ws_op:&lt;space&gt;&lt;quote&gt;open&lt;quote&gt;&lt;comma&gt;&lt;lf&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;ws_stream_id:&lt;space&gt;&lt;quote&gt;group2&lt;quote&gt;&lt;lf&gt;&lt;closecurly&gt;"/>
+#! <XFORM_PARM PARM_NAME="DATA" PARM_VALUE="&lt;at&gt;Value&lt;openparen&gt;_result&lt;closeparen&gt;"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#! IDENTIFIER="28"
+#! TYPE="WebSocketSender"
+#! VERSION="1"
+#! POSITION="2751.03 -560.005"
+#! BOUNDING_RECT="2751.03 -560.005 -1 -1"
+#! ORDER="5e+14"
+#! PARMS_EDITED="true"
+#! ENABLED="true"
+#! LAST_PARM_EDIT="15253"
+#! >
+#! <OUTPUT_FEAT NAME="OUTPUT"/>
+#! <FEAT_COLLAPSED COLLAPSED="0"/>
+#! <XFORM_ATTR ATTR_NAME="jms_message_type" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="jms_destination" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="jms_content" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="LoaderID" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="UploadedTime" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="CapturedTime" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Latitude" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Longitude" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_result" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="VERIFY_SSL_CERTIFICATES" PARM_VALUE="Yes"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="WebSocketSender_3"/>
+#! <XFORM_PARM PARM_NAME="HOST" PARM_VALUE="wss://fmewt15-safe-software.fmecloud.com:7078/websocket"/>
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="PREAMBLE" PARM_VALUE="&lt;opencurly&gt;&lt;lf&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;ws_op:&lt;space&gt;&lt;quote&gt;open&lt;quote&gt;&lt;comma&gt;&lt;lf&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;ws_stream_id:&lt;space&gt;&lt;quote&gt;group3&lt;quote&gt;&lt;lf&gt;&lt;closecurly&gt;"/>
+#! <XFORM_PARM PARM_NAME="DATA" PARM_VALUE="&lt;at&gt;Value&lt;openparen&gt;_result&lt;closeparen&gt;"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#! IDENTIFIER="39"
+#! TYPE="WebSocketSender"
+#! VERSION="1"
+#! POSITION="2751.03 -770.502"
+#! BOUNDING_RECT="2751.03 -770.502 -1 -1"
+#! ORDER="5e+14"
+#! PARMS_EDITED="true"
+#! ENABLED="true"
+#! LAST_PARM_EDIT="15253"
+#! >
+#! <OUTPUT_FEAT NAME="OUTPUT"/>
+#! <FEAT_COLLAPSED COLLAPSED="0"/>
+#! <XFORM_ATTR ATTR_NAME="jms_message_type" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="jms_destination" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="jms_content" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="LoaderID" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="UploadedTime" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="CapturedTime" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Latitude" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Longitude" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_result" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="VERIFY_SSL_CERTIFICATES" PARM_VALUE="Yes"/>
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="WebSocketSender_4"/>
+#! <XFORM_PARM PARM_NAME="HOST" PARM_VALUE="wss://fmewt15-safe-software.fmecloud.com:7078/websocket"/>
+#! <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="PREAMBLE" PARM_VALUE="&lt;opencurly&gt;&lt;lf&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;ws_op:&lt;space&gt;&lt;quote&gt;open&lt;quote&gt;&lt;comma&gt;&lt;lf&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;space&gt;ws_stream_id:&lt;space&gt;&lt;quote&gt;group4&lt;quote&gt;&lt;lf&gt;&lt;closecurly&gt;"/>
+#! <XFORM_PARM PARM_NAME="DATA" PARM_VALUE="&lt;at&gt;Value&lt;openparen&gt;_result&lt;closeparen&gt;"/>
+#! </TRANSFORMER>
+#! <TRANSFORMER
+#! IDENTIFIER="21"
+#! TYPE="AttributeFilter"
+#! VERSION="4"
+#! POSITION="1977.02 -179.907"
+#! BOUNDING_RECT="1977.02 -179.907 -1 -1"
+#! ORDER="5e+14"
+#! PARMS_EDITED="true"
+#! ENABLED="true"
+#! LAST_PARM_EDIT="15253"
+#! >
+#! <OUTPUT_FEAT NAME="&lt;EMPTY&gt;"/>
+#! <FEAT_COLLAPSED COLLAPSED="0"/>
+#! <XFORM_ATTR ATTR_NAME="jms_message_type" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="jms_destination" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="jms_content" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="LoaderID" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="UploadedTime" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="CapturedTime" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Latitude" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="Longitude" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <XFORM_ATTR ATTR_NAME="_result" IS_USER_CREATED="false" FEAT_INDEX="0" />
+#! <OUTPUT_FEAT NAME="&lt;MISSING&gt;"/>
+#! <FEAT_COLLAPSED COLLAPSED="1"/>
+#! <XFORM_ATTR ATTR_NAME="jms_message_type" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="jms_destination" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="jms_content" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="LoaderID" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="UploadedTime" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="CapturedTime" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="Latitude" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="Longitude" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <XFORM_ATTR ATTR_NAME="_result" IS_USER_CREATED="false" FEAT_INDEX="1" />
+#! <OUTPUT_FEAT NAME="&lt;NULL&gt;"/>
+#! <FEAT_COLLAPSED COLLAPSED="2"/>
+#! <XFORM_ATTR ATTR_NAME="jms_message_type" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#! <XFORM_ATTR ATTR_NAME="jms_destination" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#! <XFORM_ATTR ATTR_NAME="jms_content" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#! <XFORM_ATTR ATTR_NAME="LoaderID" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#! <XFORM_ATTR ATTR_NAME="UploadedTime" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#! <XFORM_ATTR ATTR_NAME="CapturedTime" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#! <XFORM_ATTR ATTR_NAME="Latitude" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#! <XFORM_ATTR ATTR_NAME="Longitude" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#! <XFORM_ATTR ATTR_NAME="_result" IS_USER_CREATED="false" FEAT_INDEX="2" />
+#! <OUTPUT_FEAT NAME="&lt;UNFILTERED&gt;"/>
+#! <FEAT_COLLAPSED COLLAPSED="3"/>
+#! <XFORM_ATTR ATTR_NAME="jms_message_type" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#! <XFORM_ATTR ATTR_NAME="jms_destination" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#! <XFORM_ATTR ATTR_NAME="jms_content" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#! <XFORM_ATTR ATTR_NAME="LoaderID" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#! <XFORM_ATTR ATTR_NAME="UploadedTime" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#! <XFORM_ATTR ATTR_NAME="CapturedTime" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#! <XFORM_ATTR ATTR_NAME="Latitude" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#! <XFORM_ATTR ATTR_NAME="Longitude" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#! <XFORM_ATTR ATTR_NAME="_result" IS_USER_CREATED="false" FEAT_INDEX="3" />
+#! <OUTPUT_FEAT NAME="dynamicQueues&lt;solidus&gt;MeasurementsG1"/>
+#! <FEAT_COLLAPSED COLLAPSED="4"/>
+#! <XFORM_ATTR ATTR_NAME="jms_message_type" IS_USER_CREATED="false" FEAT_INDEX="4" />
+#! <XFORM_ATTR ATTR_NAME="jms_destination" IS_USER_CREATED="false" FEAT_INDEX="4" />
+#! <XFORM_ATTR ATTR_NAME="jms_content" IS_USER_CREATED="false" FEAT_INDEX="4" />
+#! <XFORM_ATTR ATTR_NAME="LoaderID" IS_USER_CREATED="false" FEAT_INDEX="4" />
+#! <XFORM_ATTR ATTR_NAME="UploadedTime" IS_USER_CREATED="false" FEAT_INDEX="4" />
+#! <XFORM_ATTR ATTR_NAME="CapturedTime" IS_USER_CREATED="false" FEAT_INDEX="4" />
+#! <XFORM_ATTR ATTR_NAME="Latitude" IS_USER_CREATED="false" FEAT_INDEX="4" />
+#! <XFORM_ATTR ATTR_NAME="Longitude" IS_USER_CREATED="false" FEAT_INDEX="4" />
+#! <XFORM_ATTR ATTR_NAME="_result" IS_USER_CREATED="false" FEAT_INDEX="4" />
+#! <OUTPUT_FEAT NAME="dynamicQueues&lt;solidus&gt;MeasurementsG2"/>
+#! <FEAT_COLLAPSED COLLAPSED="5"/>
+#! <XFORM_ATTR ATTR_NAME="jms_message_type" IS_USER_CREATED="false" FEAT_INDEX="5" />
+#! <XFORM_ATTR ATTR_NAME="jms_destination" IS_USER_CREATED="false" FEAT_INDEX="5" />
+#! <XFORM_ATTR ATTR_NAME="jms_content" IS_USER_CREATED="false" FEAT_INDEX="5" />
+#! <XFORM_ATTR ATTR_NAME="LoaderID" IS_USER_CREATED="false" FEAT_INDEX="5" />
+#! <XFORM_ATTR ATTR_NAME="UploadedTime" IS_USER_CREATED="false" FEAT_INDEX="5" />
+#! <XFORM_ATTR ATTR_NAME="CapturedTime" IS_USER_CREATED="false" FEAT_INDEX="5" />
+#! <XFORM_ATTR ATTR_NAME="Latitude" IS_USER_CREATED="false" FEAT_INDEX="5" />
+#! <XFORM_ATTR ATTR_NAME="Longitude" IS_USER_CREATED="false" FEAT_INDEX="5" />
+#! <XFORM_ATTR ATTR_NAME="_result" IS_USER_CREATED="false" FEAT_INDEX="5" />
+#! <OUTPUT_FEAT NAME="dynamicQueues&lt;solidus&gt;MeasurementsG3"/>
+#! <FEAT_COLLAPSED COLLAPSED="6"/>
+#! <XFORM_ATTR ATTR_NAME="jms_message_type" IS_USER_CREATED="false" FEAT_INDEX="6" />
+#! <XFORM_ATTR ATTR_NAME="jms_destination" IS_USER_CREATED="false" FEAT_INDEX="6" />
+#! <XFORM_ATTR ATTR_NAME="jms_content" IS_USER_CREATED="false" FEAT_INDEX="6" />
+#! <XFORM_ATTR ATTR_NAME="LoaderID" IS_USER_CREATED="false" FEAT_INDEX="6" />
+#! <XFORM_ATTR ATTR_NAME="UploadedTime" IS_USER_CREATED="false" FEAT_INDEX="6" />
+#! <XFORM_ATTR ATTR_NAME="CapturedTime" IS_USER_CREATED="false" FEAT_INDEX="6" />
+#! <XFORM_ATTR ATTR_NAME="Latitude" IS_USER_CREATED="false" FEAT_INDEX="6" />
+#! <XFORM_ATTR ATTR_NAME="Longitude" IS_USER_CREATED="false" FEAT_INDEX="6" />
+#! <XFORM_ATTR ATTR_NAME="_result" IS_USER_CREATED="false" FEAT_INDEX="6" />
+#! <OUTPUT_FEAT NAME="dynamicQueues&lt;solidus&gt;MeasurementsG4"/>
+#! <FEAT_COLLAPSED COLLAPSED="7"/>
+#! <XFORM_ATTR ATTR_NAME="jms_message_type" IS_USER_CREATED="false" FEAT_INDEX="7" />
+#! <XFORM_ATTR ATTR_NAME="jms_destination" IS_USER_CREATED="false" FEAT_INDEX="7" />
+#! <XFORM_ATTR ATTR_NAME="jms_content" IS_USER_CREATED="false" FEAT_INDEX="7" />
+#! <XFORM_ATTR ATTR_NAME="LoaderID" IS_USER_CREATED="false" FEAT_INDEX="7" />
+#! <XFORM_ATTR ATTR_NAME="UploadedTime" IS_USER_CREATED="false" FEAT_INDEX="7" />
+#! <XFORM_ATTR ATTR_NAME="CapturedTime" IS_USER_CREATED="false" FEAT_INDEX="7" />
+#! <XFORM_ATTR ATTR_NAME="Latitude" IS_USER_CREATED="false" FEAT_INDEX="7" />
+#! <XFORM_ATTR ATTR_NAME="Longitude" IS_USER_CREATED="false" FEAT_INDEX="7" />
+#! <XFORM_ATTR ATTR_NAME="_result" IS_USER_CREATED="false" FEAT_INDEX="7" />
+#! <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="AttributeFilter"/>
+#! <XFORM_PARM PARM_NAME="ATTR_GROUP" PARM_VALUE=""/>
+#! <XFORM_PARM PARM_NAME="ATTR_NAME" PARM_VALUE="jms_destination"/>
+#! <XFORM_PARM PARM_NAME="ATTR_VALUES" PARM_VALUE="&lt;lt&gt;EMPTY&lt;gt&gt;,&lt;lt&gt;MISSING&lt;gt&gt;,&lt;lt&gt;NULL&lt;gt&gt;,&lt;lt&gt;UNFILTERED&lt;gt&gt;,dynamicQueues&lt;solidus&gt;MeasurementsG1,dynamicQueues&lt;solidus&gt;MeasurementsG2,dynamicQueues&lt;solidus&gt;MeasurementsG3,dynamicQueues&lt;solidus&gt;MeasurementsG4"/>
 #! </TRANSFORMER>
 #! </TRANSFORMERS>
 #! <FEAT_LINKS>
 #! <FEAT_LINK
-#! IDENTIFIER="16"
-#! SOURCE_NODE="12"
-#! TARGET_NODE="13"
-#! SOURCE_PORT_DESC="fo 0"
-#! TARGET_PORT_DESC="fi 0"
-#! ENABLED="true"
-#! EXTRA_POINTS=""
-#! />
-#! <FEAT_LINK
-#! IDENTIFIER="17"
-#! SOURCE_NODE="7"
-#! TARGET_NODE="12"
-#! SOURCE_PORT_DESC="fo 0"
-#! TARGET_PORT_DESC="fi 0"
-#! ENABLED="true"
-#! EXTRA_POINTS=""
-#! />
-#! <FEAT_LINK
 #! IDENTIFIER="10"
 #! SOURCE_NODE="1"
+#! TARGET_NODE="14"
+#! SOURCE_PORT_DESC="fo 0"
+#! TARGET_PORT_DESC="fi 0"
+#! ENABLED="true"
+#! EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#! IDENTIFIER="41"
+#! SOURCE_NODE="14"
 #! TARGET_NODE="12"
 #! SOURCE_PORT_DESC="fo 0"
+#! TARGET_PORT_DESC="fi 0"
+#! ENABLED="true"
+#! EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#! IDENTIFIER="22"
+#! SOURCE_NODE="12"
+#! TARGET_NODE="21"
+#! SOURCE_PORT_DESC="fo 0"
+#! TARGET_PORT_DESC="fi 0"
+#! ENABLED="true"
+#! EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#! IDENTIFIER="23"
+#! SOURCE_NODE="21"
+#! TARGET_NODE="13"
+#! SOURCE_PORT_DESC="fo 4"
+#! TARGET_PORT_DESC="fi 0"
+#! ENABLED="true"
+#! EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#! IDENTIFIER="24"
+#! SOURCE_NODE="21"
+#! TARGET_NODE="26"
+#! SOURCE_PORT_DESC="fo 5"
+#! TARGET_PORT_DESC="fi 0"
+#! ENABLED="true"
+#! EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#! IDENTIFIER="15"
+#! SOURCE_NODE="21"
+#! TARGET_NODE="28"
+#! SOURCE_PORT_DESC="fo 6"
+#! TARGET_PORT_DESC="fi 0"
+#! ENABLED="true"
+#! EXTRA_POINTS=""
+#! />
+#! <FEAT_LINK
+#! IDENTIFIER="16"
+#! SOURCE_NODE="21"
+#! TARGET_NODE="39"
+#! SOURCE_PORT_DESC="fo 7"
 #! TARGET_PORT_DESC="fi 0"
 #! ENABLED="true"
 #! EXTRA_POINTS=""
@@ -289,15 +547,45 @@ MACRO FME_VIEWER_APP fmedatainspector
 DEFAULT_MACRO WB_CURRENT_CONTEXT
 # -------------------------------------------------------------------------
 
-FACTORY_DEF * RecorderFactory    FACTORY_NAME Player    FEATURE_FILE "$(FME_MF_DIR)testing.ffs"    PASSPHRASE ""    MODE PLAYBACK    OUTPUT RECORDED FEATURE_TYPE *        @FeatureType(Player_PLAYED_BACK)
+FACTORY_DEF * COM.safe.fme.factory.JmsFactory    FACTORY_NAME JMSReceiver_2    MODE CONSUMER    PROVIDER_TYPE "ACTIVEMQ"    PROVIDER_URL "tcp://54.81.254.73:61616"    CONNECTION_FACTORY "ConnectionFactory"    DESTINATIONS dynamicQueues<solidus>MeasurementsG1,dynamicQueues<solidus>MeasurementsG2,dynamicQueues<solidus>MeasurementsG3,dynamicQueues<solidus>MeasurementsG4    OUTPUT OUTPUT FEATURE_TYPE JMSReceiver_2_OUTPUT
 
 # -------------------------------------------------------------------------
 
+FACTORY_DEF * JSONQueryFactory    FACTORY_NAME JSONFlattener    INPUT  FEATURE_TYPE JMSReceiver_2_OUTPUT    MODE FLATTEN    JSON_ATTR jms_content    EXPLODE_QUERY "json"    RECURSIVE_FLATTEN YES    OUTPUT EXPLODED FEATURE_TYPE JSONFlattener_OUTPUT    OUTPUT REJECTED FEATURE_TYPE JSONFlattener_<REJECTED>
+
+FACTORY_DEF * TeeFactory   FACTORY_NAME "JSONFlattener <REJECTED> Output Nuker"   INPUT FEATURE_TYPE JSONFlattener_<REJECTED>
 # -------------------------------------------------------------------------
-FACTORY_DEF * XMLTemplaterFactory FACTORY_NAME JSONTemplater INPUT CONTROL_FEATURE FEATURE_TYPE JMSReceiver_2_OUTPUT    INPUT CONTROL_FEATURE FEATURE_TYPE Player_PLAYED_BACK INPUT DATA_FEATURE FEATURE_TYPE JSONTemplater_DataFeatures RESULT_ATTR _result OUTPUT_XML_HEADER NO BUCKET_ATTR_NAME __xml_templater_bucket__ CONTROL_TEMPLATE_EXPR <opencurly><lf><space><space><space><space><apos>ws_op<apos>:<space><quote>send<quote><comma><lf><space><space><space><space><apos>ws_msg<apos>:<space>fme:get-attribute<openparen><quote>jms_content<quote><closeparen><lf><closecurly> OUTPUT XML_DOCUMENT FEATURE_TYPE JSONTemplater_OUTPUT
+FACTORY_DEF * XMLTemplaterFactory FACTORY_NAME JSONTemplater INPUT CONTROL_FEATURE FEATURE_TYPE JSONFlattener_OUTPUT INPUT DATA_FEATURE FEATURE_TYPE JSONTemplater_DataFeatures RESULT_ATTR _result OUTPUT_XML_HEADER NO BUCKET_ATTR_NAME __xml_templater_bucket__ CONTROL_TEMPLATE_EXPR <opencurly><lf><space><space><space><space><apos>ws_op<apos>:<space><quote>send<quote><comma><lf><space><space><space><space><apos>ws_msg<apos>:<space>fme:get-attribute<openparen><quote>jms_content<quote><closeparen><lf><closecurly> OUTPUT XML_DOCUMENT FEATURE_TYPE JSONTemplater_OUTPUT
+# -------------------------------------------------------------------------
+Lookup AttributeFilter_AttributeFilterLut   dynamicQueues<solidus>MeasurementsG1 ok   dynamicQueues<solidus>MeasurementsG2 ok   dynamicQueues<solidus>MeasurementsG3 ok   dynamicQueues<solidus>MeasurementsG4 ok   "" notok   ENCODED
+
+Tcl2 proc AttributeFilter_setFeatType {} {     global FME_FeatureType;     set ft {AttributeFilter_};     append ft [FME_EncodeText [FME_GetAttribute [FME_DecodeText {jms_destination}]]];     set FME_FeatureType $ft; }
+FACTORY_DEF * TestFactory    FACTORY_NAME AttributeFilter    INPUT  FEATURE_TYPE JSONTemplater_OUTPUT    TEST @Lookup(AttributeFilter_AttributeFilterLut,jms_destination,ENCODED_ATTR) == "ok"    OUTPUT PASSED FEATURE_TYPE * @Tcl2(AttributeFilter_setFeatType)    OUTPUT FAILED FEATURE_TYPE AttributeFilter_<NULL>
+FACTORY_DEF * TestFactory    FACTORY_NAME AttributeFilter_NullFilter    INPUT FEATURE_TYPE AttributeFilter_<NULL>    TEST jms_destination ATTRIBUTE_VALUE_NULL "" ENCODED    OUTPUT PASSED FEATURE_TYPE AttributeFilter_<NULL>    OUTPUT FAILED FEATURE_TYPE AttributeFilter_<MISSING>
+FACTORY_DEF * TestFactory    FACTORY_NAME AttributeFilter_MissingFilter    INPUT FEATURE_TYPE AttributeFilter_<MISSING>    TEST jms_destination ATTRIBUTE_IS_MISSING "" ENCODED    OUTPUT PASSED FEATURE_TYPE AttributeFilter_<MISSING>    OUTPUT FAILED FEATURE_TYPE AttributeFilter_<UNFILTERED>
+FACTORY_DEF * TestFactory    FACTORY_NAME AttributeFilter_BlankFilter    INPUT FEATURE_TYPE AttributeFilter_<UNFILTERED>    TEST jms_destination ATTRIBUTE_IS_EMPTY "" ENCODED    OUTPUT PASSED FEATURE_TYPE AttributeFilter_<EMPTY>    OUTPUT FAILED FEATURE_TYPE AttributeFilter_<UNFILTERED>
+
+
+
+FACTORY_DEF * TeeFactory   FACTORY_NAME "AttributeFilter <EMPTY> Output Nuker"   INPUT FEATURE_TYPE AttributeFilter_<EMPTY>
+FACTORY_DEF * TeeFactory   FACTORY_NAME "AttributeFilter <MISSING> Output Nuker"   INPUT FEATURE_TYPE AttributeFilter_<MISSING>
+FACTORY_DEF * TeeFactory   FACTORY_NAME "AttributeFilter <NULL> Output Nuker"   INPUT FEATURE_TYPE AttributeFilter_<NULL>
+FACTORY_DEF * TeeFactory   FACTORY_NAME "AttributeFilter <UNFILTERED> Output Nuker"   INPUT FEATURE_TYPE AttributeFilter_<UNFILTERED>
 # -------------------------------------------------------------------------
 
-FACTORY_DEF * COM.safe.fme.factory.WebSocketFactory    FACTORY_NAME WebSocketSender_2       INPUT  FEATURE_TYPE JSONTemplater_OUTPUT    DIRECTION SEND    INITIATION_SEQUENCE CONNECT    HOST "@EvaluateExpression(STRING,wss://bluesky-safe-software.fmecloud.com:7078/websocket,WebSocketSender_2)"    PREAMBLE "@EvaluateExpression(STRING,<opencurly><lf><space><space><space><space>ws_op:<space><quote>open<quote><comma><lf><space><space><space><space>ws_stream_id:<space><quote>TruckLocation<quote><lf><closecurly>,WebSocketSender_2)"    DATA "@EvaluateExpression(STRING,@EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>_result<closeparen>,WebSocketSender_2),WebSocketSender_2)"    VERIFY_SSL_CERTIFICATES_BOOL true
+FACTORY_DEF * COM.safe.fme.factory.WebSocketFactory    FACTORY_NAME WebSocketSender_4       INPUT  FEATURE_TYPE AttributeFilter_dynamicQueues<solidus>MeasurementsG4    DIRECTION SEND    INITIATION_SEQUENCE CONNECT    HOST "@EvaluateExpression(STRING,wss://fmewt15-safe-software.fmecloud.com:7078/websocket,WebSocketSender_4)"    PREAMBLE "@EvaluateExpression(STRING,<opencurly><lf><space><space><space><space>ws_op:<space><quote>open<quote><comma><lf><space><space><space><space>ws_stream_id:<space><quote>group4<quote><lf><closecurly>,WebSocketSender_4)"    DATA "@EvaluateExpression(STRING,@EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>_result<closeparen>,WebSocketSender_4),WebSocketSender_4)"    VERIFY_SSL_CERTIFICATES_BOOL true
+
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * COM.safe.fme.factory.WebSocketFactory    FACTORY_NAME WebSocketSender_3       INPUT  FEATURE_TYPE AttributeFilter_dynamicQueues<solidus>MeasurementsG3    DIRECTION SEND    INITIATION_SEQUENCE CONNECT    HOST "@EvaluateExpression(STRING,wss://fmewt15-safe-software.fmecloud.com:7078/websocket,WebSocketSender_3)"    PREAMBLE "@EvaluateExpression(STRING,<opencurly><lf><space><space><space><space>ws_op:<space><quote>open<quote><comma><lf><space><space><space><space>ws_stream_id:<space><quote>group3<quote><lf><closecurly>,WebSocketSender_3)"    DATA "@EvaluateExpression(STRING,@EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>_result<closeparen>,WebSocketSender_3),WebSocketSender_3)"    VERIFY_SSL_CERTIFICATES_BOOL true
+
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * COM.safe.fme.factory.WebSocketFactory    FACTORY_NAME WebSocketSender_2       INPUT  FEATURE_TYPE AttributeFilter_dynamicQueues<solidus>MeasurementsG2    DIRECTION SEND    INITIATION_SEQUENCE CONNECT    HOST "@EvaluateExpression(STRING,wss://fmewt15-safe-software.fmecloud.com:7078/websocket,WebSocketSender_2)"    PREAMBLE "@EvaluateExpression(STRING,<opencurly><lf><space><space><space><space>ws_op:<space><quote>open<quote><comma><lf><space><space><space><space>ws_stream_id:<space><quote>group2<quote><lf><closecurly>,WebSocketSender_2)"    DATA "@EvaluateExpression(STRING,@EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>_result<closeparen>,WebSocketSender_2),WebSocketSender_2)"    VERIFY_SSL_CERTIFICATES_BOOL true
+
+# -------------------------------------------------------------------------
+
+FACTORY_DEF * COM.safe.fme.factory.WebSocketFactory    FACTORY_NAME WebSocketSender_1       INPUT  FEATURE_TYPE AttributeFilter_dynamicQueues<solidus>MeasurementsG1    DIRECTION SEND    INITIATION_SEQUENCE CONNECT    HOST "@EvaluateExpression(STRING,wss://fmewt15-safe-software.fmecloud.com:7078/websocket,WebSocketSender_1)"    PREAMBLE "@EvaluateExpression(STRING,<opencurly><lf><space><space><space><space>ws_op:<space><quote>open<quote><comma><lf><space><space><space><space>ws_stream_id:<space><quote>group1<quote><lf><closecurly>,WebSocketSender_1)"    DATA "@EvaluateExpression(STRING,@EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>_result<closeparen>,WebSocketSender_1),WebSocketSender_1)"    VERIFY_SSL_CERTIFICATES_BOOL true
 
 # -------------------------------------------------------------------------
 

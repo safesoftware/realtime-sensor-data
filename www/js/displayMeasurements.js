@@ -34,7 +34,7 @@ function initialize() {
 	var image1 = imageRoot + 'number_1.png';
 	//2 = blue
 	var image2 = imageRoot + 'number_2.png';
-	//3 = ret
+	//3 = red
 	var image3 = imageRoot + 'number_3.png';
 	//4 = yellow
 	var image4 = imageRoot + 'number_4.png';

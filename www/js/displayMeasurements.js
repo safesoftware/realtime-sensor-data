@@ -29,7 +29,7 @@ function initialize() {
 	// Storage for WebSocket connections
 	var wsG1, wsG2, wsG3, wsG4;
 
-	var imageRoot = '/fmepedia-realtime-sensor-data/www/libs/';
+	var imageRoot = '/libs/';
 	//1 = green
 	var image1 = imageRoot + 'number_1.png';
 	//2 = blue

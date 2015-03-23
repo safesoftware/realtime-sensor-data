@@ -29,7 +29,7 @@ function initialize() {
 	// Storage for WebSocket connections
 	var wsG1, wsG2, wsG3, wsG4;
 
-	var imageRoot = '/libs/';
+	var imageRoot = '/realtime-sensor-data/libs/';
 	//1 = green
 	var image1 = imageRoot + 'number_1.png';
 	//2 = blue
